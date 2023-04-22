@@ -1,0 +1,12 @@
+{
+  "name": "laba-4",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
